@@ -1,6 +1,6 @@
 # AurixOS
 
-![Discord Chat](https://img.shields.io/discord/1224355667331256453)
+![Discord Chat](https://img.shields.io/discord/1234051470182055988)
 
 AurixOS is a multiplatform operating system.
 
